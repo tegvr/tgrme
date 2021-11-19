@@ -2,7 +2,7 @@
   "name": "glitch-in-bio",
   "version": "0.0.1",
   "description": "Your very own link-in-bio app.",
-  "main": "server.js",
+  "main": "index.html",
   "scripts": {
     "start": "vite",
     "build": "vite build",
@@ -15,7 +15,7 @@
     "@auto-it/released": "^10.32.2",
     "auto": "^10.32.2",
     "vite": "^2.5.0",
-    "vite-plugin-handlebars": "^1.6.0"
+    "@glitchdotcom/vite-plugin-handlebars": "^1.6.2"
   },
   "browserslist": [
     ">0.2%",
