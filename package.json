@@ -11,10 +11,8 @@
   },
   "devDependencies": {
     "@auto-it/all-contributors": "^10.32.2",
-    "@auto-it/conventional-commits": "^10.32.2",
     "@auto-it/first-time-contributor": "^10.32.2",
     "@auto-it/released": "^10.32.2",
-    "@auto-it/slack": "^10.32.2",
     "auto": "^10.32.2",
     "vite": "^2.5.0",
     "vite-plugin-handlebars": "^1.6.0"
@@ -36,10 +34,8 @@
   "auto": {
     "plugins": [
       "all-contributors",
-      "conventional-commits",
       "first-time-contributor",
-      "released",
-      "slack"
+      "released"
     ],
     "onlyPublishWithReleaseLabel": true
   }
