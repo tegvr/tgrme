@@ -34,7 +34,6 @@
   "author": "Keith Kurson <keith@glitch.com>",
   "auto": {
     "plugins": [
-      "npm",
       "all-contributors",
       "conventional-commits",
       "first-time-contributor",
