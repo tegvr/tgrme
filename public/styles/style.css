@@ -76,7 +76,7 @@ body {
   flex-wrap: wrap;
   border-top: 4px solid #fff;
 }
-.footer a:hover {
+.footer a:hover, .footer a:focus {
   background: var(--color-primary);
 }
 .footer .tagline {
@@ -108,7 +108,7 @@ body {
   top: 1px;
   margin-right: 0.25rem;
 }
-.btn--remix:hover {
+.btn--remix:hover, .btn--remix:focus {
   background-color: #D0FFF1;
 }
 
@@ -156,7 +156,7 @@ a:not(.btn--remix):visited {
   color: var(--color-text-main);
   transition: background 0.2s linear;
 }
-a:hover {
+a:hover, a:active, a:focus {
   background: var(--color-primary);
 }
 /******************************************************************************
@@ -247,7 +247,7 @@ ul.link-list li a span {
 .social-profile-icon path {
   fill: var(--color-bg-alt);
 }
-.social-profile-icon path:hover {
+.social-profile-icon:hover path, .social-profile-icon:focus path {
   fill: var(--color-text-main);
 }
 
