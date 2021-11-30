@@ -13,7 +13,6 @@
     "@auto-it/all-contributors": "^10.32.2",
     "@auto-it/first-time-contributor": "^10.32.2",
     "@auto-it/git-tag": "^10.32.3",
-    "@auto-it/magic-zero": "^10.32.3",
     "@auto-it/released": "^10.32.2",
     "@glitchdotcom/vite-plugin-handlebars": "^1.6.2",
     "auto": "^10.32.2",
@@ -38,7 +37,6 @@
       "all-contributors",
       "first-time-contributor",
       "released",
-      "magic-zero",
       "git-tag"
     ],
     "onlyPublishWithReleaseLabel": true
