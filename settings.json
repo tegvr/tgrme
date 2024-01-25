@@ -1,8 +1,8 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
-  "theme": "glitch",
+  "metaTitle": "Tegar Siburian @tegar.me",
+  "metaDescription": "Tegar Siburian @tegar.me",
+  "name": "Tegar Siburian",
+  "theme": "Glitch",
   "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
   "links": [
     {
@@ -12,8 +12,8 @@
       "altText": "Tegar Notes"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "url": "https://tegar.me/quotes",
+      "text": "Quotes Poster - Pinterest",
       "img": ""
     },
     {
@@ -32,7 +32,7 @@
     "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/tegar.me",
     "keybase": "",
     "kofi": "",
     "letterboxd": "",
