@@ -8,14 +8,31 @@ TIP: Get started creating your own theme here
 - (Update it if you changed the CSS file name)
 ******************************************************************************/
 
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt");
+
+
 :root {
   --font-family: Arial, sans-serif;
   --font-family-header: Arial, sans-serif;
   --font-family-list: Arial, sans-serif;
-  --color-bg: violet;
+  --color-bg: black;
   --color-bg-alt: aqua;
-  --color-text-main: yellow;
-  --color-primary: blue;
+  --color-text-main: white;
+  --color-primary: white;
 }
 
+h1{
+  font-family: 'Rock Salt',Sans-serif;
+}
+body {
+  background: var(--color-bg);
+}
+
+ul.link-list li a:link,
+ul.link-list li a:visited {
+  text-align: center;
+  border: 0px solid var(--color-primary);
+  padding: 1.5rem;
+  position: relative;
+}
 /* Add your style rules! */
