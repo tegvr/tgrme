@@ -1,0 +1,58 @@
+{
+  "metaTitle": "Tegar Siburian @tegar.me",
+  "metaDescription": "Tegar Siburian @tegar.me",
+  "name": "Tegar Siburian",
+  "theme": "custom-theme",
+  "avatarImage": "https://res.cloudinary.com/tegvr/image/upload/v1706164695/tegar.me/IMG_20240123_010119_323_wqlzyc.jpg",
+  "links": [
+    {
+      "url": "https://aku.tegar.me",
+      "text": "Tegar Notes",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Tegar Notes"
+    },
+    {
+      "url": "https://tegar.me/quotes",
+      "text": "Quotes Poster - Pinterest",
+      "img": ""
+    },
+    {
+      "url": "https://tegar.me/playlist",
+      "text": "Playlist",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena": "",
+    "bandcamp": "",
+    "cohost": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "https://instagram.com/tegar.me",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "",
+    "linkedin": "",
+    "mastodon": "",
+    "medium": "",
+    "onlyfans": "",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "https://twitter.com/tegar_me",
+    "twitch": "",
+    "tiktok": "https://tiktok.com/@tegar.me",
+    "tumblr": "",
+    "youtube": "https://www.youtube.com/TegarSiburian",
+    "email": ""
+  }
+}
