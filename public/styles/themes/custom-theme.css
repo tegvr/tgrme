@@ -11,6 +11,7 @@ TIP: Get started creating your own theme here
 @import url("https://fonts.googleapis.com/css2?family=Rock+Salt");
 @import url("https://fonts.googleapis.com/css2?family=Roboto");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat");
 
 
 :root {
@@ -27,7 +28,8 @@ h1{
   font-family: 'Rock Salt',Sans-serif;
 }
 body {
-  background: var(--color-bg);
+  /* background: var(--color-bg); */
+  background-image: linear-gradient(to bottom, #171d26, #2d2943, #582e54, #872f51, #aa3b3b);
 }
 avatar{
    max-width: var(--avatar-max-width);
@@ -40,7 +42,7 @@ avatar{
 
 
 ul.link-list li a {
-  font-family:'Open Sans',Sans-serif;
+  font-family:'Montserrat',Sans-serif;
   font-weight:800;
   min-height: 5.5em;
   min-width: 100%;
