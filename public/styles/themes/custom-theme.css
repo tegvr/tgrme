@@ -29,11 +29,16 @@ h1{
 body {
   background: var(--color-bg);
 }
+avatar{
+   max-width: var(--avatar-max-width);
+  max-height: var(--avatar-max-width);
+  margin: 1rem 0 1.5rem;
+  border-radius: 10%;
+}
 
 
-
-ul.link-list li a img {
-  display:none;
+ul.link-list li{
+  text-align:center;
 }
 
 ul.link-list li a {
@@ -44,9 +49,12 @@ ul.link-list li a {
   display: flex;
   align-content: center;
   justify-content: flex-start;
-  align-items: center;
-  
+  align-items: center;  
 }
+ul.link-list li a img {
+  display:none;
+}
+
 ul.link-list li a:link,
 ul.link-list li a:visited {
   text-align: center;
@@ -57,5 +65,8 @@ ul.link-list li a:visited {
 ul.link-list li a:hover, ul.link-list li a:focus {
   border: 4px solid var(--theme-color-title);
   background:rgba(255,255,255,.1);
+}
+.social-profile-icon path {
+  fill: white;
 }
 /* Add your style rules! */
