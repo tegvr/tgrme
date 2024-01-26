@@ -37,19 +37,17 @@ avatar{
 }
 
 
-ul.link-list li{
-  text-align:center;
-}
+
 
 ul.link-list li a {
   font-family:'Open Sans',Sans-serif;
-  font-weight:bolder;
+  font-weight:bolder !important;
   min-height: 5.5em;
   min-width: 100%;
   display: flex;
   align-content: center;
-  justify-content: flex-start;
-  align-items: center;  
+  justify-content: center;
+  align-items: center;
 }
 ul.link-list li a img {
   display:none;
