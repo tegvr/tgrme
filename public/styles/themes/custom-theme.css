@@ -9,6 +9,8 @@ TIP: Get started creating your own theme here
 ******************************************************************************/
 
 @import url("https://fonts.googleapis.com/css2?family=Rock+Salt");
+@import url("https://fonts.googleapis.com/css2?family=Roboto");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans");
 
 
 :root {
@@ -28,11 +30,32 @@ body {
   background: var(--color-bg);
 }
 
+
+
+ul.link-list li a img {
+  display:none;
+}
+
+ul.link-list li a {
+  font-family:'Open Sans',Sans-serif;
+  font-weight:bolder;
+  min-height: 5.5em;
+  min-width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
 ul.link-list li a:link,
 ul.link-list li a:visited {
   text-align: center;
   border: 0px solid var(--color-primary);
   padding: 1.5rem;
   position: relative;
+}
+ul.link-list li a:hover, ul.link-list li a:focus {
+  border: 4px solid var(--theme-color-title);
+  background:rgba(255,255,255,.1);
 }
 /* Add your style rules! */
