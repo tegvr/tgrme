@@ -17,6 +17,5 @@ export default defineConfig(async ({ command, mode }) => {
     optimizeDeps: {
       exclude: ['./settings.json']
     },
-     base: "/tgrme"
   };
 });

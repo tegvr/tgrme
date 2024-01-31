@@ -6,4 +6,3 @@ web_modules
 .pm2
 .snowpack
 build
-dist
